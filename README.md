@@ -7,3 +7,8 @@ Currently learning advanced testing and deploying backend apps.
 I love combining code and empathy to solve real-world problems.
 
 Connect with me: [LinkedIn](https://www.linkedin.com/in/mca-brenda-landa)
+
+## 📚 Currently learning
+
+- Testing in Spring Boot
+- English for remote work
